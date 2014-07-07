@@ -1,0 +1,27 @@
+body
+{
+    background-image: url(background.png);
+    color: #000000;
+    font-family: Arial;
+    font-size: large;
+}
+
+svg
+{
+    overflow:hidden;    
+}
+
+p
+{
+    width: 640px;
+}
+
+div.container
+{
+    width: 700px;
+    text-align: left;
+    background: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px;
+}
