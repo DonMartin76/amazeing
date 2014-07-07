@@ -5,4 +5,5 @@
 <body>
 <?php phpinfo(); ?>
 <!-- huhu -->
+<!-- Amazeing -->
 <body>
